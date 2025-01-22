@@ -1,0 +1,23 @@
+.budget-section {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.budget-section input {
+    margin-right: 10px;
+    padding: 5px;
+    width: 150px; /* Adjust width as needed */
+}
+
+.budget-section button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.budget-section button:hover {
+    background-color: #0056b3;
+}
